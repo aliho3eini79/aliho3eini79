@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @aliho3eini
+- 👋 Hi, I’m Ali Hosseini
 - 👀 I’m interested in web developing
 - 🌱 I’m currently learning mobile app develope with flutter
 
